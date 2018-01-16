@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e0d0b345fe07b6d43a75734ca69f5812
+timeCreated: 1515647636
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: International Super Hero Cond
+  fontNames:
+  - International Super Hero Cond
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dd9fee59dc08f8e49930cb4e7efd1ac7
+timeCreated: 1515647636
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: International Super Hero Light
+  fontNames:
+  - International Super Hero Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
