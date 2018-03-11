@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "JSON handler",
+"dataUrl": "WebGL Files.data.unityweb",
+"asmCodeUrl": "WebGL Files.asm.code.unityweb",
+"asmMemoryUrl": "WebGL Files.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL Files.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
